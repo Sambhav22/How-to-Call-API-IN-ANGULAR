@@ -1,4 +1,4 @@
-<h2>How to call API in github</h2>
+<h2>How to call API in ANgular</h2>
 Step 1: Create service with command ng g service services/usersData
 <br>
 Step 2: Go to services/users-data.services.ts file and write code <br>
